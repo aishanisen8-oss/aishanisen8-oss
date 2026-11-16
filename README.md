@@ -29,6 +29,19 @@ vision-language models using LoRA-based adapter techniques.
 Developing a multi-agent workflow using LangGraph,
 with Research, Reasoning, and Validation stages.
 
+### 3. Adaptive Multi-Agent Crosstalk for Efficient Agentic AI
+*Research & Development Project*
+
+- Exploring adaptive communication between multiple AI agents.
+- Designing a workflow with Research, Reasoning, and Validation stages.
+- Using LangGraph for multi-agent orchestration and state management.
+- Maintaining communication logs and interaction counts.
+- Investigating methods to reduce unnecessary inter-agent communication.
+- Developing a prototype using LLMs and Gradio.
+
+**Technologies:** Python, LangGraph, Groq API, LLMs, Gradio.
+
+
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, C, Java, html
