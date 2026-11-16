@@ -1,5 +1,5 @@
 
-# Hi, I'm Aishani Sen 👋
+# Hi, I'm Aishani Sen 
 
 ### AI/ML Research Enthusiast | Federated Learning | Machine Unlearning
 
@@ -31,7 +31,7 @@ with Research, Reasoning, and Validation stages.
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, C, Java
+- **Languages:** Python, C, Java, html
 - **Libraries:** NumPy, Pandas
 - **Frameworks:** PyTorch, LangGraph, PEFT, Gradio
 - **AI/ML:** Machine Learning, Federated Learning, LLMs, VLMs
@@ -52,7 +52,7 @@ Published Book Chapter — Chapter 9
 Techno International New Town  
 Expected Graduation: 2028
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Deep Learning
 - Advanced Machine Learning
